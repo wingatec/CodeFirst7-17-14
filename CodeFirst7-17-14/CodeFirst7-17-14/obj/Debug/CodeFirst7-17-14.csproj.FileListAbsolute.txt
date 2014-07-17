@@ -16,3 +16,7 @@ C:\Users\Grand\Documents\GitHub\CodeFirst7-17-14\CodeFirst7-17-14\CodeFirst7-17-
 C:\Users\Grand\Documents\GitHub\CodeFirst7-17-14\CodeFirst7-17-14\CodeFirst7-17-14\obj\Debug\CodeFirst7-17-14.csprojResolveAssemblyReference.cache
 C:\Users\Grand\Documents\GitHub\CodeFirst7-17-14\CodeFirst7-17-14\CodeFirst7-17-14\obj\Debug\CodeFirst7-17-14.dll
 C:\Users\Grand\Documents\GitHub\CodeFirst7-17-14\CodeFirst7-17-14\CodeFirst7-17-14\obj\Debug\CodeFirst7-17-14.pdb
+C:\Users\Grand\Documents\GitHub\CodeFirst7-17-14\CodeFirst7-17-14\CodeFirst7-17-14\bin\EntityFramework.dll
+C:\Users\Grand\Documents\GitHub\CodeFirst7-17-14\CodeFirst7-17-14\CodeFirst7-17-14\bin\EntityFramework.SqlServer.dll
+C:\Users\Grand\Documents\GitHub\CodeFirst7-17-14\CodeFirst7-17-14\CodeFirst7-17-14\bin\EntityFramework.xml
+C:\Users\Grand\Documents\GitHub\CodeFirst7-17-14\CodeFirst7-17-14\CodeFirst7-17-14\bin\EntityFramework.SqlServer.xml
