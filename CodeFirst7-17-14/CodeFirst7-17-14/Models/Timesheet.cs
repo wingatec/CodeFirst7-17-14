@@ -15,7 +15,7 @@ namespace CodeFirst7_17_14.Models
         public DateTime TimeIn { get; set; }
         [DataType(DataType.Time)]
         public DateTime TimeOut { get; set; }
-        public  DateTime DailyHours { get; set; }
+        public int DailyHours { get; set; }
 
         public virtual Employee Employee { get; set; }
         
